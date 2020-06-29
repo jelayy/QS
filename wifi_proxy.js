@@ -1,5 +1,3 @@
-
-/* wifi_proxy change
 [Script]
 SSID助手 = debug=1,script-path=https://raw.githubusercontent.com/rainman0925/GFW/master/Surge/Scripts/wifi_proxy.js,type=event,event-name=network-changed,control-api=true
 
